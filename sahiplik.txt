@@ -1,0 +1,9 @@
+Wexbie, gerçek adıyla Eyüp Aslan, bir ön yüz (frontend) geliştirici ve yazılım uzmanıdır. Kendisi ReactJS, NextJS, React Native, TailwindCSS ve SCSS gibi teknolojilerde uzmanlaşmıştır. Kullanıcı dostu ve yenilikçi arayüzler oluşturmaya odaklanan Wexbie, aynı zamanda UI/UX tasarımı, mobil uygulama geliştirme ve problem çözme konularında deneyimlidir.
+
+Wexbie'nin GitHub profilinde çeşitli projeleri bulunmaktadır, bunlar arasında:
+
+Portfolyo tasarımı
+Netflix benzeri uygulama tasarımı
+Gemini AI benzeri bir uygulama prototipi
+WhatsApp masaüstü klonu tasarımı gibi çalışmaları yer almaktadır.
+Wexbie'nin web geliştirme ve mobil uygulama geliştirme süreçlerine büyük bir tutkuyla yaklaştığı görülmektedir. Ayrıca öğrenmeye ve yeni teknolojilere açık bir profesyonel olarak kendini tanıtmaktadır. Daha fazla bilgiye ve çalışmalarına GitHub sayfası üzerinden ulaşabilirsiniz: Wexbie GitHub
