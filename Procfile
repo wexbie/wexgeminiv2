@@ -1,1 +1,1 @@
-web: gunicorn app:app
+web: gunicorn gemini_bot_yazili:app
